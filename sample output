@@ -1,0 +1,11 @@
+Unemployment Information: {'Bachelor’s degree': '4.0%',
+                           'Master’s degree': '3.0%',
+                           'Associate degree': '5.5%',
+                           'High school diploma': '6.0%',
+                           'No degree': '8.5%'}
+
+Table Data:
+       Field     2019   2020   2021
+0    Science   10.5%   9.8%   9.5%
+1       Arts    8.0%   7.8%   7.5%
+2   Commerce    9.0%   8.8%   8.5%
